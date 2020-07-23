@@ -1,2 +1,2 @@
 # machine_learning
-Machine Learning scripts in Python
+Machine Learning models built from scratch in Python
