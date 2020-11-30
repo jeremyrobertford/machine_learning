@@ -7,7 +7,3 @@ Linear regression <br>
 K Nearest Neighbors <br>
 K Means <br>
 Support Vector Machine <br>
-
-# Implementations:
-
-
